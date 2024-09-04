@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working at UNISEL, as Laravel Developer
+I'm a 21-year-old Laravel developer with a year of experience, passionate about growing my skills and tackling new challenges in web development.
 
 
 ## 🌐 Socials:
